@@ -17,21 +17,7 @@
         {
             "background_music":
             [
-                "music/1-01. A Slice And A Scoop.mp3",
-                "music/1-04. Thank You For Your Patience.mp3",
-                "music/1-05. Just Add Water.mp3",
-                "music/1-06. Minor Corrosion Of The Bizet.mp3",
-                "music/1-07. No Time For Popcorn.mp3",
-                "music/1-08. The Runaway.mp3",
-                "music/1-09. Groovy Gravy.mp3",
-                "music/1-10. Alchemists Fantasy.mp3",
-                "music/1-14. 240 Bits Per Mile.mp3",
-                "music/1-15. Smashing Windshields.mp3",
-                "music/1-16. Legal Woes.mp3",
-                "music/1-17. Title Screen.mp3",
-                "music/1-18. Creme De La Creme.mp3",
-                "music/1-20. Nowhere To Run.mp3",
-                "music/1-21. Credits.mp3"
+                "music/merged_ost.mp3"
             ]
         }    
     },
