@@ -1,6 +1,6 @@
 {
-    "name": "FNaF 6 OST",
-    "description": "",
+    "name": "FNaF (FFPS and SB) Music",
+    "description": "Some songs from FNaF FFPS (6) and SB (8) as background music",
     "developer":
     {
         "name": "poptie"
@@ -17,9 +17,9 @@
         {
             "background_music":
             [
-                "music/merged_ost.mp3"
+                "music/merged.mp3"
             ]
         }    
     },
-    "version": "1.0"
+    "version": "2.0"
 }
